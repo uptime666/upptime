@@ -4,19 +4,19 @@
     "url": "https://keeprun.myfam2.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/keeprun.myfam2.repl.co.ico",
     "slug": "keeprun",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 6291,
-    "timeDay": 6291,
-    "timeWeek": 6291,
-    "timeMonth": 6291,
-    "timeYear": 6291,
+    "status": "up",
+    "uptime": "58.73%",
+    "uptimeDay": "58.73%",
+    "uptimeWeek": "58.73%",
+    "uptimeMonth": "58.73%",
+    "uptimeYear": "58.73%",
+    "time": 4260,
+    "timeDay": 4260,
+    "timeWeek": 4260,
+    "timeMonth": 4260,
+    "timeYear": 4260,
     "dailyMinutesDown": {
-      "2022-11-18": 0
+      "2022-11-18": 12
     }
   }
 ]
