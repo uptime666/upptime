@@ -1,20 +1,20 @@
 [
   {
-    "name": "foryou.js.cool",
-    "url": "https://foryou.js.cool",
-    "icon": "https://icons.duckduckgo.com/ip3/foryou.js.cool.ico",
-    "slug": "foryou-js-cool",
+    "name": "keeprun",
+    "url": "https://keeprun.myfam2.repl.co",
+    "icon": "https://icons.duckduckgo.com/ip3/keeprun.myfam2.repl.co.ico",
+    "slug": "keeprun",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2295,
-    "timeDay": 2295,
-    "timeWeek": 2295,
-    "timeMonth": 2295,
-    "timeYear": 2295,
+    "time": 254,
+    "timeDay": 254,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   }
 ]
