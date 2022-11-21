@@ -4,9 +4,9 @@
     "url": "https://keeprun.myfam2.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/keeprun.myfam2.repl.co.ico",
     "slug": "keeprun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2641,
     "timeMonth": 2641,
     "timeYear": 2641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-21": 0
+    }
   },
   {
     "name": "Google Trends API",
