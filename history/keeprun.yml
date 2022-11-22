@@ -1,7 +1,7 @@
 url: https://keeprun.myfam2.repl.co
-status: up
-code: 200
-responseTime: 479
-lastUpdated: 2022-11-22T10:45:29.773Z
+status: down
+code: 429
+responseTime: 12612
+lastUpdated: 2022-11-22T21:51:15.431Z
 startTime: Fri Nov 18 2022 11:25:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
