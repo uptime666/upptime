@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/keeprun.myfam2.repl.co.ico",
     "slug": "keeprun",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.46%",
     "uptimeDay": "98.05%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 3122,
-    "timeDay": 3346,
-    "timeWeek": 3122,
-    "timeMonth": 3122,
-    "timeYear": 3122,
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 2820,
+    "timeDay": 3447,
+    "timeWeek": 2820,
+    "timeMonth": 2820,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2022-11-21": 28
     }
@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/googletrends.myfam2.repl.co.ico",
     "slug": "google-trends-api",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 336,
-    "timeDay": 341,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 336,
-    "dailyMinutesDown": {
-      "2022-11-21": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 314,
+    "timeDay": 231,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
+    "dailyMinutesDown": {}
   }
 ]
