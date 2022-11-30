@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/readsw-bot.myfam2.repl.co.ico",
     "slug": "rsw",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "99.15%",
     "uptimeDay": "97.87%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
-    "time": 422,
-    "timeDay": 562,
-    "timeWeek": 422,
-    "timeMonth": 422,
-    "timeYear": 422,
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 1078,
+    "timeDay": 2185,
+    "timeWeek": 1078,
+    "timeMonth": 1078,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2022-11-29": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 399,
-    "timeWeek": 334,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "time": 318,
+    "timeDay": 191,
+    "timeWeek": 307,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   }
 ]
