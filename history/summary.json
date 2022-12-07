@@ -4,18 +4,19 @@
     "url": "https://readsw-bot.myfam2.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/readsw-bot.myfam2.repl.co.ico",
     "slug": "rsw",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 891,
     "timeDay": 368,
     "timeWeek": 797,
     "timeMonth": 891,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2022-12-07": 0,
       "2022-11-29": 31
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://googletrends.myfam2.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/googletrends.myfam2.repl.co.ico",
     "slug": "google-trends-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 271,
-    "timeWeek": 1109,
-    "timeMonth": 581,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "time": 995,
+    "timeDay": 4974,
+    "timeWeek": 2180,
+    "timeMonth": 995,
+    "timeYear": 995,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   }
 ]
