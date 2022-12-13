@@ -1,27 +1,21 @@
 [
   {
-    "name": "RSW",
-    "url": "https://readsw-bot.myfam2.repl.co",
-    "icon": "https://icons.duckduckgo.com/ip3/readsw-bot.myfam2.repl.co.ico",
-    "slug": "rsw",
-    "status": "down",
-    "uptime": "81.93%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "60.31%",
-    "uptimeMonth": "81.93%",
-    "uptimeYear": "81.93%",
-    "time": 2665,
-    "timeDay": 10227,
-    "timeWeek": 4693,
-    "timeMonth": 2665,
-    "timeYear": 2665,
-    "dailyMinutesDown": {
-      "2022-12-13": 82,
-      "2022-12-12": 1440,
-      "2022-12-11": 1440,
-      "2022-12-10": 1038,
-      "2022-11-29": 31
-    }
+    "name": "Okteto Movies",
+    "url": "https://movies-linuxrun1.cloud.okteto.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/movies-linuxrun1.cloud.okteto.net.ico",
+    "slug": "okteto-movies",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 172,
+    "timeDay": 172,
+    "timeWeek": 172,
+    "timeMonth": 172,
+    "timeYear": 172,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google Trends API",
@@ -34,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1063,
-    "timeDay": 343,
-    "timeWeek": 1911,
-    "timeMonth": 1063,
-    "timeYear": 1063,
+    "time": 1036,
+    "timeDay": 274,
+    "timeWeek": 1769,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {}
   }
 ]
