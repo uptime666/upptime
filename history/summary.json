@@ -4,18 +4,20 @@
     "url": "https://movies-linuxrun1.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/movies-linuxrun1.cloud.okteto.net.ico",
     "slug": "okteto-movies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 175,
+    "timeDay": 177,
     "timeWeek": 175,
     "timeMonth": 175,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-14": 0
+    }
   },
   {
     "name": "Google Trends API",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1013,
-    "timeDay": 237,
+    "timeDay": 270,
     "timeWeek": 1769,
     "timeMonth": 1013,
     "timeYear": 1013,
