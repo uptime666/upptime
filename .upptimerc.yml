@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Okteto Movies
     url: https://movies-linuxrun1.cloud.okteto.net/
-  - name: Google Trends API
-    url: https://googletrends.myfam2.repl.co
+  - name: My Linux SSH
+    url: https://mylnx-mylnx-linuxrun1.cloud.okteto.net/
 
 
 status-website:
