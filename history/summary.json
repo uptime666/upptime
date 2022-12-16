@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/movies-linuxrun1.cloud.okteto.net.ico",
     "slug": "okteto-movies",
     "status": "up",
-    "uptime": "97.79%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "97.79%",
-    "uptimeYear": "97.79%",
-    "time": 226,
-    "timeDay": 305,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
+    "time": 220,
+    "timeDay": 258,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2022-12-14": 69
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 311,
-    "timeWeek": 311,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
