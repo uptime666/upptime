@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/movies-linuxrun1.cloud.okteto.net.ico",
     "slug": "okteto-movies",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 220,
     "timeDay": 220,
     "timeWeek": 220,
@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mylnx-mylnx-linuxrun1.cloud.okteto.net.ico",
     "slug": "my-linux-ssh",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4398,
     "timeDay": 5322,
     "timeWeek": 4398,
     "timeMonth": 4398,
     "timeYear": 4398,
-    "dailyMinutesDown": {
-      "2022-12-16": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
