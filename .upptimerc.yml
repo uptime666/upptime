@@ -6,7 +6,7 @@ sites:
   - name: Okteto Movies
     url: https://movies-linuxrun1.cloud.okteto.net/
   - name: My Linux SSH
-    url: https://mylnx-mylnx-linuxrun1.cloud.okteto.net/
+    url: https://webmin-linuxrun1.cloud.okteto.net/
 
 
 status-website:
