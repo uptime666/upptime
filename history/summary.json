@@ -24,19 +24,19 @@
     "url": "https://webmin-linuxrun1.cloud.okteto.net/",
     "icon": "https://icons.duckduckgo.com/ip3/webmin-linuxrun1.cloud.okteto.net.ico",
     "slug": "my-linux-ssh",
-    "status": "down",
-    "uptime": "92.44%",
-    "uptimeDay": "80.57%",
-    "uptimeWeek": "92.44%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "92.44%",
-    "time": 3498,
-    "timeDay": 196,
-    "timeWeek": 3498,
-    "timeMonth": 3498,
-    "timeYear": 3498,
+    "status": "up",
+    "uptime": "92.35%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "92.35%",
+    "time": 3284,
+    "timeDay": 219,
+    "timeWeek": 3284,
+    "timeMonth": 3284,
+    "timeYear": 3284,
     "dailyMinutesDown": {
-      "2022-12-18": 280
+      "2022-12-18": 283
     }
   }
 ]
