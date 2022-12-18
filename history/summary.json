@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mylnx-mylnx-linuxrun1.cloud.okteto.net.ico",
     "slug": "my-linux-ssh",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.45%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 3748,
     "timeDay": 172,
     "timeWeek": 3748,
     "timeMonth": 3748,
     "timeYear": 3748,
     "dailyMinutesDown": {
-      "2022-12-18": 0
+      "2022-12-18": 19
     }
   }
 ]
